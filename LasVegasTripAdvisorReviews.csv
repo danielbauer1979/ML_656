@@ -1,0 +1,505 @@
+User country,Nr. reviews,Nr. hotel reviews,Helpful votes,Score,Period of stay,Traveler type,Pool,Gym,Tennis court,Spa,Casino,Free internet,Hotel name,Hotel stars
+USA,11,4,13,5,Dec-Feb,Friends,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+USA,119,21,75,3,Dec-Feb,Business,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+USA,36,9,25,5,Mar-May,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+UK,14,7,14,4,Mar-May,Friends,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+Canada,5,5,2,4,Mar-May,Solo,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+Canada,31,8,27,3,Mar-May,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+UK,45,12,46,4,Mar-May,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+USA,2,1,4,4,Mar-May,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+India,24,3,8,4,Mar-May,Friends,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+Canada,12,7,11,3,Mar-May,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+USA,102,24,58,2,Jun-Aug,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+Australia,20,9,24,3,Jun-Aug,Friends,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+USA,7,6,9,2,Jun-Aug,Friends,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+USA,22,5,13,3,Jun-Aug,Friends,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+UK,3,3,0,3,Jun-Aug,Friends,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+New Zealand,146,17,33,4,Jun-Aug,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+Canada,8,8,9,1,Sep-Nov,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+USA,9,3,1,4,Sep-Nov,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+Canada,41,9,19,3,Sep-Nov,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+USA,8,7,26,2,Sep-Nov,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+UK,10,5,2,4,Sep-Nov,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+New Zealand,4,3,3,1,Sep-Nov,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+UK,18,7,19,4,Dec-Feb,Families,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+USA,4,4,3,2,Dec-Feb,Couples,NO,YES,NO,NO,YES,YES,Circus Circus Hotel & Casino Las Vegas,3
+Ireland,29,11,15,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+USA,114,42,52,4,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Canada,30,12,17,5,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+UK,87,18,36,3,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+USA,26,10,28,5,Mar-May,Solo,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Ireland,8,7,9,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Canada,11,8,13,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Australia,4,3,2,3,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Canada,56,8,7,3,Mar-May,Solo,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Egypt,13,12,8,3,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Australia,58,9,15,4,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Finland,20,7,4,3,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+USA,70,27,24,4,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Kenya,6,3,7,4,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+USA,290,263,299,4,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+USA,24,6,9,2,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Jordan,29,8,21,3,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Canada,20,5,59,3,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Netherlands,3,3,3,3,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Ireland,47,6,27,4,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+USA,35,8,19,4,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+UK,6,0,4,4,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+UK,74,47,54,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+Syria,34,8,30,3,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,Excalibur Hotel & Casino,3
+UK,576,43,340,3,Dec-Feb,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+USA,20,8,11,4,Dec-Feb,Solo,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+USA,418,32,132,2,Dec-Feb,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+USA,73,13,22,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+Canada,30,10,32,3,Mar-May,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+USA,63,15,17,4,Mar-May,Business,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+UK,24,10,13,5,Mar-May,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+South Africa,54,18,16,2,Mar-May,Business,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+Australia,20,7,11,4,Mar-May,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+UK,41,7,24,4,Mar-May,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+Ireland,7,5,7,4,Jun-Aug,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+Canada,13,9,15,4,Jun-Aug,Friends,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+UK,10,5,4,4,Jun-Aug,Families,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+New Zealand,9,6,19,3,Jun-Aug,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+Switzerland,36,19,36,2,Jun-Aug,Solo,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+UK,33,12,19,3,Jun-Aug,Families,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+United Arab Emirates,156,126,142,3,Sep-Nov,Friends,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+Ireland,19,17,16,4,Sep-Nov,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+USA,23,17,11,3,Sep-Nov,Families,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+USA,13,3,3,2,Sep-Nov,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+Hungary,8,5,8,4,Sep-Nov,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+China,1,0,2,1,Sep-Nov,Business,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+Greece,21,18,6,2,Dec-Feb,Business,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+Mexico,56,14,36,5,Dec-Feb,Couples,YES,YES,NO,YES,YES,NO,Monte Carlo Resort&Casino,4
+Croatia,29,11,14,3,Dec-Feb,Business,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Australia,11,5,8,4,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Canada,19,12,167,4,Dec-Feb,Friends,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+USA,17,9,16,5,Dec-Feb,Solo,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+USA,43,8,20,4,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Canada,12,8,3,4,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+USA,15,14,7,4,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Australia,16,13,16,3,Mar-May,Families,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+India,12,4,25,3,Mar-May,Families,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Germany,10,0,5,4,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+USA,27,17,16,3,Jun-Aug,Families,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Canada,6,5,5,4,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Australia,21,20,14,5,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Malaysia,43,14,27,4,Jun-Aug,Solo,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Mexico,97,31,37,4,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+UK,7,3,4,4,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+UK,11,9,6,3,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+USA,78,11,30,4,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Australia,12,7,4,5,Sep-Nov,Families,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+USA,27,11,5,3,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Thailand,4,3,1,5,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Australia,27,9,8,4,Sep-Nov,Families,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Canada,12,3,7,4,Dec-Feb,Friends,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+Canada,21,16,48,5,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4
+UK,34,17,30,4,Dec-Feb,Families,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+USA,12,6,1,5,Dec-Feb,Friends,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+Philippines,79,39,51,3,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+Israel,18,10,16,3,Dec-Feb,Business,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+Canada,13,3,8,4,Mar-May,Business,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+UK,14,4,9,4,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+Ireland,19,9,28,5,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+India,88,15,103,4,Mar-May,Business,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+New Zealand,8,4,0,4,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+Belgium,39,15,31,3,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+UK,130,41,61,4,Jun-Aug,Business,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+Australia,79,78,105,4,Jun-Aug,Friends,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+UK,13,10,16,4,Jun-Aug,Solo,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+UK,18,6,17,4,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+New Zealand,8,7,3,5,Jun-Aug,Friends,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+Australia,15,4,6,5,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+Canada,27,0,9,1,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+Australia,5,3,2,5,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+UK,22,6,6,5,Sep-Nov,Friends,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+USA,5,3,11,2,Sep-Nov,Friends,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+India,31,8,11,4,Sep-Nov,Solo,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+Netherlands,33,8,8,5,Sep-Nov,Friends,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+UK,10,6,11,5,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+UK,12,3,3,5,Dec-Feb,Families,YES,YES,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4
+USA,50,14,24,5,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+USA,161,33,85,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+Puerto Rico,153,38,81,5,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+Canada,14,3,12,5,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+USA,31,12,10,5,Mar-May,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+USA,15,10,29,3,Mar-May,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+Canada,5,5,4,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+USA,46,4,21,4,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+UK,15,6,39,1,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+UK,63,27,35,4,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+USA,17,15,13,4,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+USA,25,22,36,1,Jun-Aug,Solo,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+USA,14,8,4,5,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+UK,59,56,37,3,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+UK,11,10,17,5,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+Canada,54,18,31,4,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+USA,4,3,4,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+USA,10,7,7,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+USA,14,6,7,5,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+USA,39,12,16,5,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+Australia,35,24,43,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+Australia,6,6,9,3,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+USA,23,7,2,4,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+USA,48,21,67,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Caesars Palace,5
+Australia,16,9,14,4,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+Australia,12,6,3,5,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+Switzerland,36,9,15,4,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+UK,127,40,80,5,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+USA,12,5,1,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+USA,17,17,74,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+Ireland,23,7,21,4,Mar-May,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+USA,102,17,45,5,Mar-May,Business,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+Germany,113,15,55,5,Mar-May,Families,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+USA,30,8,10,2,Mar-May,Business,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+Germany,24,24,24,2,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+Ireland,15,5,18,5,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+USA,6,4,14,1,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+Australia,3,3,0,4,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+Canada,41,10,56,5,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+USA,19,8,56,4,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+UK,18,9,10,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+Norway,6,6,7,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+USA,103,5,98,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+UK,18,4,16,5,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+Egypt,9,7,7,5,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+USA,50,19,45,5,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+Canada,4,3,8,2,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+USA,7,3,8,5,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Cosmopolitan Las Vegas,5
+Mexico,28,23,31,3,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+USA,32,6,11,5,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+Canada,4,0,4,5,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+USA,37,8,9,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+Canada,10,3,7,5,Mar-May,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+Canada,36,30,80,5,Mar-May,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+USA,31,10,14,4,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+Canada,66,33,60,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+France,17,4,8,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+UK,57,20,71,5,Mar-May,Business,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+USA,42,8,22,4,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+USA,28,20,14,3,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+Spain,19,8,10,4,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+USA,20,11,21,5,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+UK,75,19,93,4,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+USA,91,16,26,4,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+UK,52,48,78,3,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+USA,93,4,8,5,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+Canada,9,3,15,5,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+Australia,5,3,9,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+Singapore,37,7,10,5,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+Brazil,31,25,35,3,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+USA,6,4,4,5,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+USA,252,55,113,4,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Palazzo Resort Hotel Casino,5
+USA,164,48,82,5,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+USA,5,3,9,5,Dec-Feb,Families,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+Canada,7,5,20,4,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+USA,18,11,15,5,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+USA,20,13,16,5,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+USA,21,5,12,4,Mar-May,Business,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+USA,125,35,48,5,Mar-May,Business,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+USA,11,7,10,4,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+Singapore,16,10,16,3,Mar-May,Solo,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+UK,19,5,5,5,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+USA,73,27,365,5,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+USA,5,4,4,5,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+USA,30,10,17,5,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+Canada,7,4,10,5,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+Canada,67,46,99,5,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+Finland,18,13,25,5,Jun-Aug,Solo,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+Canada,12,7,11,2,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+Canada,40,12,26,5,Sep-Nov,Friends,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+USA,142,17,31,4,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+UK,8,4,16,5,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+Costa Rica,15,9,3,5,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+UK,2,18,14,5,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+UK,10,6,10,5,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+USA,16,13,55,5,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Wynn Las Vegas,5
+UK,21,7,13,5,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+India,69,58,41,5,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+USA,33,13,8,5,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+USA,1,0,2,5,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+USA,49,8,23,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+USA,775,52,255,3,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+United Arab Emirates,16,7,6,4,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+USA,1,0,1,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+Singapore,19,11,17,4,Mar-May,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+Brazil,7,4,8,5,Mar-May,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+USA,38,18,16,5,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+USA,48,14,30,5,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+Canada,136,20,55,5,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+USA,26,8,1,4,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+Iran,3,3,2,4,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+USA,78,17,24,5,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+UK,24,18,12,5,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+Egypt,2,0,15,1,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+Ireland,4,3,3,5,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+Australia,11,7,17,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+Germany,1,0,1,2,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+Australia,35,16,17,4,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+USA,110,19,76,4,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+USA,53,25,24,5,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Trump International Hotel Las Vegas,5
+Saudi Arabia,320,45,102,3,Dec-Feb,Business,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,2,0,2,4,Dec-Feb,Business,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,26,6,12,5,Dec-Feb,Families,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,4,4,0,5,Dec-Feb,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,9,9,6,2,Mar-May,Solo,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,17,14,70,5,Mar-May,Friends,YES,NO,NO,NO,YES,YES,The Cromwell,4
+Canada,3,0,1,5,Mar-May,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4
+Canada,14,0,4,2,Mar-May,Families,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,235,111,267,5,Mar-May,Friends,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,59,9,21,5,Mar-May,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,2,0,2,5,Jun-Aug,Friends,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,2,0,1,5,Jun-Aug,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,21,18,53,5,Jun-Aug,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,4,0,16,1,Jun-Aug,Friends,YES,NO,NO,NO,YES,YES,The Cromwell,4
+Netherlands,184,52,70,5,Jun-Aug,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4
+UK,262,75,150,4,Jun-Aug,Families,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,69,11,17,5,Sep-Nov,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4
+Australia,92,12,27,4,Sep-Nov,Business,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,131,61,116,3,Sep-Nov,Families,YES,NO,NO,NO,YES,YES,The Cromwell,4
+Norway,25,10,16,5,Sep-Nov,Friends,YES,NO,NO,NO,YES,YES,The Cromwell,4
+Canada,49,22,53,3,Sep-Nov,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,148,33,55,4,Sep-Nov,Business,YES,NO,NO,NO,YES,YES,The Cromwell,4
+Canada,26,7,22,4,Dec-Feb,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4
+USA,13,4,1,4,Dec-Feb,Couples,YES,NO,NO,NO,YES,YES,The Cromwell,4
+Thailand,3,3,20,1,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,46,12,87,5,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+UK,127,40,81,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,15,5,12,5,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,16,14,23,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,113,38,27,4,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+UK,7,5,5,3,Mar-May,Families,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+Honduras,73,32,99,4,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,35,12,3,5,Mar-May,Business,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+UK,139,20,86,5,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+UK,28,12,30,5,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,34,8,26,4,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,4,3,5,5,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,32,11,14,5,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+UK,9,3,4,5,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,333,58,200,5,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,29,11,15,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+UK,85,43,68,5,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,12,5,1,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+UK,34,10,7,4,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+India,13,7,8,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,5,5,14,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,169,25,41,5,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,11,10,6,5,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Encore at wynn Las Vegas,5
+USA,4,3,2,5,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+USA,50,39,48,2,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+Mexico,10,3,1,5,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+Canada,7,4,4,5,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+UK,60,7,42,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+Netherlands,92,49,18,4,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+Australia,106,37,58,4,Mar-May,Business,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+Canada,7,5,45,4,Mar-May,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+Brazil,37,31,38,5,Mar-May,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+USA,70,25,19,1,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+USA,9,3,4,5,Jun-Aug,Friends,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+USA,11,6,7,5,Jun-Aug,Solo,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+Finland,39,18,9,4,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+UK,10,0,9,5,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+USA,78,17,24,4,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+UK,48,21,19,5,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+Canada,112,34,41,5,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+USA,28,17,14,5,Sep-Nov,Solo,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+UK,11,3,16,2,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+USA,9,5,11,4,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+USA,4,4,1,3,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+Mexico,22,15,25,4,Sep-Nov,Families,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+USA,42,11,36,5,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+Australia,20,16,9,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Hilton Grand Vacations on the Boulevard,3
+Canada,160,34,88,4,Dec-Feb,Business,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+USA,372,78,169,4,Dec-Feb,Business,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+USA,84,18,36,5,Dec-Feb,Families,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+USA,21,13,20,5,Dec-Feb,Business,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+UK,95,37,55,4,Mar-May,Friends,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+Germany,118,107,131,5,Mar-May,Business,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+Canada,6,0,8,5,Mar-May,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+USA,60,4,31,4,Mar-May,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+Australia,275,79,339,4,Mar-May,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+Canada,46,39,42,4,Mar-May,Business,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+USA,6,5,6,5,Jun-Aug,Families,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+Australia,11,0,5,5,Jun-Aug,Families,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+USA,75,37,48,5,Jun-Aug,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+Denmark,240,76,115,5,Jun-Aug,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+Taiwan,20,12,7,5,Jun-Aug,Families,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+Israel,62,40,25,5,Jun-Aug,Families,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+USA,88,19,58,5,Sep-Nov,Friends,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+USA,6,3,5,5,Sep-Nov,Friends,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+Thailand,18,9,8,3,Sep-Nov,Business,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+Mexico,159,43,78,5,Sep-Nov,Families,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+Kuwait,47,23,20,4,Sep-Nov,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+Norway,86,12,46,4,Sep-Nov,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+USA,42,9,13,5,Dec-Feb,Couples,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+Germany,64,33,23,4,Dec-Feb,Families,YES,YES,NO,NO,YES,YES,Marriott's Grand Chateau,3
+USA,167,71,119,5,Dec-Feb,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+USA,25,5,12,5,Dec-Feb,Friends,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+UK,12,12,6,3,Dec-Feb,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+USA,608,117,319,5,Dec-Feb,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+USA,5,4,3,5,Mar-May,Friends,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+USA,26,17,34,5,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+Brazil,11,5,9,5,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+USA,39,10,13,4,Mar-May,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+India,1,0,3,2,Mar-May,Families,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+USA,108,20,22,3,Mar-May,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+Malaysia,119,20,46,5,Jun-Aug,Friends,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+USA,27,15,17,3,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+Germany,55,55,134,5,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+Canada,7,3,7,4,Jun-Aug,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+Canada,3,3,2,3,Jun-Aug,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+USA,11,3,19,4,Jun-Aug,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+Australia,27,15,16,5,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+USA,13,4,6,5,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+UK,19,11,14,3,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+Canada,38,12,17,5,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+USA,167,71,119,4,Sep-Nov,Couples,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+USA,28,6,9,3,Sep-Nov,Business,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+Canada,9,8,5,5,Dec-Feb,Families,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+USA,13,4,4,5,Dec-Feb,Friends,YES,YES,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3
+USA,65,24,72,3,Dec-Feb,Business,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,8,3,3,5,Dec-Feb,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+UK,61,13,26,2,Dec-Feb,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,3,3,8,2,Dec-Feb,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,66,13,21,5,Mar-May,Friends,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,9,7,4,5,Mar-May,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,82,14,61,3,Mar-May,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+Canada,113,48,33,3,Mar-May,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,11,8,12,3,Mar-May,Friends,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+Canada,2,1,1,3,Mar-May,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,31,11,24,5,Jun-Aug,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+Australia,32,12,22,4,Jun-Aug,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,56,7,25,3,Jun-Aug,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+Canada,45,6,22,5,Jun-Aug,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,17,4,4,4,Jun-Aug,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,23,23,11,5,Jun-Aug,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+Canada,56,18,24,5,Sep-Nov,Friends,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,290,263,300,4,Sep-Nov,Business,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+Australia,26,7,9,4,Sep-Nov,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+India,116,44,53,4,Sep-Nov,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+Czech Republic,14,5,15,4,Sep-Nov,Business,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,13,7,1,5,Sep-Nov,Business,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,20,9,25,4,Dec-Feb,Couples,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+Mexico,3,3,3,5,Dec-Feb,Families,YES,YES,NO,NO,NO,YES,Hilton Grand Vacations at the Flamingo,3
+USA,17,3,12,4,Dec-Feb,Friends,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+Australia,21,11,13,5,Dec-Feb,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+USA,60,11,33,5,Dec-Feb,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+Canada,12,4,15,5,Dec-Feb,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+USA,27,12,51,5,Mar-May,Friends,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+USA,34,12,35,4,Mar-May,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+Canada,69,22,38,5,Mar-May,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+USA,16,4,7,5,Mar-May,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+Australia,26,5,5,4,Mar-May,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+USA,54,10,15,4,Mar-May,Business,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+UK,35,17,27,5,Jun-Aug,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+India,23,12,7,5,Jun-Aug,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+UK,6,3,14,5,Jun-Aug,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+USA,27,8,16,4,Jun-Aug,Friends,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+USA,41,8,14,3,Jun-Aug,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+Canada,12,4,6,5,Jun-Aug,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+USA,14,3,14,5,Sep-Nov,Friends,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+USA,415,162,265,4,Sep-Nov,Business,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+Ireland,76,27,32,3,Sep-Nov,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+UK,24,12,30,4,Sep-Nov,Couples,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+Japan,23,9,23,3,Sep-Nov,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+USA,182,24,47,4,Sep-Nov,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+USA,289,28,133,4,Dec-Feb,Families,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+Canada,101,35,46,5,Dec-Feb,Friends,YES,YES,YES,NO,NO,YES,Wyndham Grand Desert,3
+Ireland,31,11,20,4,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+USA,20,6,9,5,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+USA,60,16,15,4,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+Mexico,1,0,2,5,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+USA,9,3,13,3,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+USA,19,7,5,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+Israel,116,78,206,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+Australia,22,13,26,4,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+Australia,83,10,26,4,Mar-May,Families,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+UK,20,3,9,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+USA,7,5,6,5,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+USA,95,34,46,5,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+Australia,15,6,19,4,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+UK,13,7,12,4,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+Canada,19,8,24,5,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+UK,21,6,15,5,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+UK,56,11,14,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+UK,29,7,15,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+Brazil,20,0,8,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+UK,39,20,31,4,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+Switzerland,9,6,3,5,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+Australia,43,38,29,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+Singapore,16,10,11,5,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+USA,6,6,12,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Venetian Las Vegas Hotel,5
+Australia,16,6,3,4,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+USA,15,3,13,5,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+USA,30,6,26,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+USA,41,9,111,5,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+India,44,35,53,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+USA,30,9,17,2,Mar-May,Business,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+Ireland,23,10,18,5,Mar-May,Business,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+Spain,3,0,8,2,Mar-May,Families,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+UK,12,6,16,3,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+UK,15,6,17,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+UK,5,0,5,5,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+USA,32,5,11,4,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+USA,28,5,23,5,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+South Korea,77,18,48,4,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+USA,11,8,2,4,Jun-Aug,Solo,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+UK,102,25,37,5,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+Ireland,13,3,2,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+USA,62,13,31,4,Sep-Nov,Business,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+UK,26,22,42,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+UK,13,6,12,4,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+UK,26,18,43,5,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+Canada,17,10,39,5,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+India,4,4,1,4,Dec-Feb,Business,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+Malaysia,20,18,19,2,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,Bellagio Las Vegas,5
+USA,14,3,7,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+Canada,19,3,12,5,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,4,4,2,2,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,116,12,43,4,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,121,13,59,2,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,14,7,6,5,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,56,16,54,4,Mar-May,Business,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+Canada,73,4,39,3,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,9,5,4,5,Mar-May,Friends,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,137,42,51,3,Mar-May,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+Australia,30,12,38,5,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+Costa Rica,130,19,49,3,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,50,15,23,4,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+UK,22,9,11,4,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+Egypt,85,37,65,5,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,73,7,26,5,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,20,10,27,4,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+Canada,13,6,13,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+Canada,18,3,10,2,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,6,4,6,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,48,8,25,4,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,24,3,5,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+Canada,123,26,63,5,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+USA,24,7,6,4,Dec-Feb,Friends,YES,YES,NO,YES,YES,YES,Paris Las Vegas,4
+Canada,20,13,17,4,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,15,3,4,3,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+Italy,189,72,129,4,Dec-Feb,Solo,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,25,19,27,3,Dec-Feb,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,33,11,12,5,Mar-May,Business,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,14,7,13,5,Mar-May,Friends,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,38,22,47,4,Mar-May,Business,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+Egypt,169,43,85,4,Mar-May,Solo,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,20,17,21,3,Mar-May,Friends,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,17,10,18,4,Mar-May,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,96,47,161,4,Jun-Aug,Solo,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,38,13,11,3,Jun-Aug,Business,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+India,12,11,9,4,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,9,8,1,5,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,23,21,22,3,Jun-Aug,Families,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,21,6,3,4,Jun-Aug,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,30,27,19,5,Sep-Nov,Solo,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,63,16,59,3,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+UK,35,3,25,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+UK,15,4,8,5,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+Canada,50,13,29,4,Sep-Nov,Couples,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,154,23,31,4,Sep-Nov,Friends,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,9,6,5,2,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
+USA,20,19,112,4,Dec-Feb,Families,YES,YES,NO,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4
